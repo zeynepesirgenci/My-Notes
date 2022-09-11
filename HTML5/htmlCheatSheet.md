@@ -9,7 +9,7 @@
 
 ## Differences Table
 
-! [table](HTMLvsHTML5.PNG)
+![table](HTMLvsHTML5.PNG)
 
 [Table Reference](https://www.scaler.com/topics/difference-between-html-and-html5/)
 
